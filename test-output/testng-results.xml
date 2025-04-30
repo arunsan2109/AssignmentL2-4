@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-04T18:13:32Z" name="Default suite" finished-at="2025-02-04T18:13:46Z" duration-ms="14356">
+    <groups>
+    </groups>
+    <test started-at="2025-02-04T18:13:32Z" name="Default test" finished-at="2025-02-04T18:13:46Z" duration-ms="14356">
+      <class name="com.selenium.AssignmentL2_4.AssignmentFour">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.selenium.AssignmentL2_4.AssignmentFour@5dd1c9f2]" started-at="2025-02-04T12:13:32Z" name="launchURL" finished-at="2025-02-04T12:13:39Z" duration-ms="6823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="ksrtc(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.AssignmentL2_4.AssignmentFour@5dd1c9f2]" started-at="2025-02-04T12:13:39Z" name="ksrtc" data-provider="data-provider" finished-at="2025-02-04T12:13:46Z" duration-ms="7276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[email@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7989985522]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ksrtc -->
+        <test-method is-config="true" signature="tearDownURL()[pri:0, instance:com.selenium.AssignmentL2_4.AssignmentFour@5dd1c9f2]" started-at="2025-02-04T12:13:46Z" name="tearDownURL" finished-at="2025-02-04T12:13:46Z" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownURL -->
+      </class> <!-- com.selenium.AssignmentL2_4.AssignmentFour -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
